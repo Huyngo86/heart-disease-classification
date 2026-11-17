@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+__pycache__/
+*.joblib
+*.pkl
+
+# Dataset files are provided locally by each user, never committed.
+/Data/*.csv
